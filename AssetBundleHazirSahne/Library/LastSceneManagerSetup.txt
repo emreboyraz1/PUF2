@@ -3,5 +3,8 @@ sceneSetups:
   isLoaded: 0
   isActive: 0
 - path: Assets/DemoScenes/Json.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/PUF_Vers2/All_Sliders/Slider_Scenes/Slider Scene.unity
   isLoaded: 1
   isActive: 1
